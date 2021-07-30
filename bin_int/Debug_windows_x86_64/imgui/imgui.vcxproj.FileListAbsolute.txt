@@ -1,0 +1,2 @@
+C:\Users\skoltsov\Documents\GitHub\Fjord\Engine\vendor\imgui\bin\Debug_windows_x86_64\imgui\imgui.pdb
+C:\Users\skoltsov\Documents\GitHub\Fjord\Engine\vendor\imgui\bin_int\Debug_windows_x86_64\imgui\imgui.pdb
